@@ -1,0 +1,27 @@
+
+C:\Users\chamin\AppData\Local\Programs\Python\Python37-32\python.exe
+Fermeture_Geopak (Running) - Microsoft Visual Studio
+Status.ini - Notepad
+RemoteCmd
+Auto Py To Exe
+New Tab - Google Chrome
+Network and Sharing Centre
+Settings
+Command Prompt - auto-py-to-exe
+SQL4automation - S4ADebugger
+Suivi_Operateur - Microsoft Visual Studio
+Inbox - cminne@torsen.be - Microsoft Outlook (Safe Mode)
+Solution1 - Microsoft SQL Server Management Studio
+Command Prompt
+Task Manager
+SQL4automation - S4AConfig
+QA_Gate_V2 - Microsoft Visual Studio
+Calculator
+Microsoft Store
+
+Calculator
+Microsoft Store
+QA_GATE - Microsoft Visual Studio
+
+
+Program Manager
